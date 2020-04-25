@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3842214a-f833-473e-9130-4da3c7ee9b65" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/view/common/footer.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/view/index/pagination.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/view/common/header.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/view/index/posts.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/view/index/header.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/view/common/navbar.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/css/style.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/page.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/view/page/sidebar.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/auth.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1ZzT5E9bKALnEcaTFiVAwOBM2Bd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../propic" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
+      <recent name="$PROJECT_DIR$/public/font" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/js" />
+      <recent name="$PROJECT_DIR$/public/css" />
+      <recent name="$PROJECT_DIR$/public/img" />
+      <recent name="$PROJECT_DIR$/public/font" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="page.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/security/page.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.page.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3842214a-f833-473e-9130-4da3c7ee9b65" name="Default Changelist" comment="" />
+      <created>1585840737403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585840737403</updated>
+      <workItem from="1585840739798" duration="6933000" />
+      <workItem from="1585933902119" duration="195000" />
+      <workItem from="1585934146908" duration="11588000" />
+      <workItem from="1585951620407" duration="25086000" />
+      <workItem from="1586114286112" duration="16741000" />
+      <workItem from="1586171397983" duration="2542000" />
+      <workItem from="1586342465060" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="249" width="426" height="485" key="FileChooserDialogImpl" timestamp="1586342482354">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state x="0" y="249" width="426" height="485" key="FileChooserDialogImpl/0.0.1366.733@0.0.1366.733" timestamp="1586342482354" />
+    <state width="1320" height="150" key="GridCell.Tab.0.bottom" timestamp="1586101113233">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state width="1320" height="150" key="GridCell.Tab.0.bottom/0.0.1366.733@0.0.1366.733" timestamp="1586101113233" />
+    <state width="1320" height="150" key="GridCell.Tab.0.center" timestamp="1586101113227">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state width="1320" height="150" key="GridCell.Tab.0.center/0.0.1366.733@0.0.1366.733" timestamp="1586101113227" />
+    <state width="1320" height="150" key="GridCell.Tab.0.left" timestamp="1586101113223">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state width="1320" height="150" key="GridCell.Tab.0.left/0.0.1366.733@0.0.1366.733" timestamp="1586101113223" />
+    <state width="1320" height="150" key="GridCell.Tab.0.right" timestamp="1586101113230">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state width="1320" height="150" key="GridCell.Tab.0.right/0.0.1366.733@0.0.1366.733" timestamp="1586101113230" />
+    <state x="504" y="294" width="350" height="158" key="NewPhpFileDialog" timestamp="1586101651260">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state x="504" y="294" width="350" height="158" key="NewPhpFileDialog/0.0.1366.733@0.0.1366.733" timestamp="1586101651260" />
+    <state x="504" y="308" width="350" height="158" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1585856752931" />
+    <state x="187" y="21" width="992" height="731" key="SettingsEditor" timestamp="1585858987119">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="187" y="21" width="992" height="731" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1585858987119" />
+    <state x="363" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1586342465159">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state x="363" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.733@0.0.1366.733" timestamp="1586342465159" />
+    <state x="299" y="0" width="768" height="733" key="find.popup" timestamp="1585943704418">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state x="299" y="0" width="768" height="733" key="find.popup/0.0.1366.733@0.0.1366.733" timestamp="1585943704418" />
+  </component>
+</project>
